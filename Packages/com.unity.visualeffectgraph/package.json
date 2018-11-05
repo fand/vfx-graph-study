@@ -1,0 +1,13 @@
+{
+    "name":"com.unity.visualeffectgraph",
+    "displayName": "Visual Effects Graph",
+    "version": "4.1.0-preview",
+    "description":"Visual Effect Graph : Node-Based, GPU-Accelerated, Next-Generation Visual Effects solution",
+    "unity": "2018.3",
+    "keywords":[
+        "vfx",
+        "visualeffect",
+        "graph",
+        "effect"
+    ]
+}
