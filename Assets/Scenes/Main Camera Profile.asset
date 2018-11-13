@@ -1348,8 +1348,8 @@ MonoBehaviour:
     overrideState: 0
     value: 270
   sampleCount:
-    overrideState: 0
-    value: 10
+    overrideState: 1
+    value: 21
 --- !u!114 &114727052348065564
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1372,7 +1372,7 @@ MonoBehaviour:
     defaultState: 1
   intensity:
     overrideState: 1
-    value: 0.129
+    value: 0.274
   fastMode:
     overrideState: 1
     value: 1
